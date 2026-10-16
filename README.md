@@ -1,6 +1,6 @@
 
 
-##Hi, I'm Tamzyn 👋##
+<h2>Hi, I'm Tamzyn 👋</h2>
 
 Product Manager with a background in integrations, partnerships and data-heavy products. I like turning messy problems into simple products people use. [**Vlokk**](https://github.com/TamzynEady/vlokk) is my side project: a fashion travel app I built solo from idea to working product, with AI-planned city itineraries and packing lists.
 
