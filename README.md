@@ -1,13 +1,9 @@
-## Hi there 👋
 
-<!--
-**TamzynEady/TamzynEady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2>Hi, I'm Tamzyn 👋</h2>
+##Hi, I'm Tamzyn 👋##
 
 Product Manager with a background in integrations, partnerships and data-heavy products. I like turning messy problems into simple products people use. [**Vlokk**](https://github.com/TamzynEady/vlokk) is my side project: a fashion travel app I built solo from idea to working product, with AI-planned city itineraries and packing lists.
 
----
 
 - 🔭 I’m currently working on **[Vlokk](https://github.com/TamzynEady/vlokk)**, getting it ready for launch
 - 🌱 I’m currently learning to build with AI agents, launch and grow a product, and make mobile apps
@@ -17,8 +13,6 @@ Product Manager with a background in integrations, partnerships and data-heavy p
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tamzyneady/) · tamzyneady@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I swapped Cape Town for Berlin
-
----
 
 ### 🛠️ What I build with
 
