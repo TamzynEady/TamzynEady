@@ -5,11 +5,11 @@
 Product Manager with a background in integrations, partnerships and data-heavy products. I like turning messy problems into simple products people use. [**Vlokk**](https://www.vlokk.com/) is my side project: a fashion travel app I built solo from idea to working product, with AI-planned city itineraries and packing lists.
 
 
-- 🔭 I’m currently working on **[Vlokk](https://www.vlokk.com/)**, getting it ready for launch. Check out the [**showcase repo**](https://github.com/TamzynEady/Vlokk-showcase)
+- 🔭 I’m currently working on **[Vlokk](https://www.vlokk.com/)**, vibe coded with Claude Code, powered by the Claude API and Google Places API. Check out the [**showcase repo**](https://github.com/TamzynEady/Vlokk-showcase)
 - 🌱 I’m currently learning to build with AI agents, launch and grow a product, and make mobile apps
 - 👯 I’m looking to collaborate on AI-powered side projects
 - 🤔 I’m looking for help with code reviews and design & UX feedback on Vlokk
-- 💬 Ask me about integrations, partnerships, and building products with AI
+- 💬 Ask me about API integrations, partnerships, vibe coding, and building products with AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tamzyneady/) · tamzyneady@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I swapped Cape Town for Berlin
